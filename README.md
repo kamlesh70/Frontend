@@ -1,5 +1,34 @@
-# Vue 3 + TypeScript + Vite
+# Frontend - My Account Management System
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+This is the frontend of the **My Account Management System**, a web application for managing user profiles. This project is built with **Vue.js** and integrates with a **NestJS** backend and a shared ORM library using **PostgreSQL**.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+---
+
+## 🚀 Features
+
+- User list ( pagination and sorting )
+
+---
+
+## 🛠 Tech Stack
+
+- **Frontend**: Vue.js, Vue Router, Axios, Pinia (or Vuex, depending on usage)
+- **Backend**: [Backend](https://github.com/kamlesh70/backend)
+- **ORM Library**: Shared library using TypeORM with PostgreSQL
+- **Database**: PostgreSQL
+
+---
+
+## 📄 Prerequisites
+  -  Node.js >= 22.x
+
+---
+
+## 🚀 Setup and installation
+  - npm install ( to install the dependencies )
+
+---
+
+## 📦 Run and Build
+  - npm run dev ( start application )
+  - npm run build ( build the application )
